@@ -5,37 +5,38 @@
 <br>
 <div align="center">
   <p>
-    🚀 &nbsp; <b>Backend Engineering:</b> Development of high-performance RESTful APIs with Python (FastAPI).<br>
-    💻 &nbsp; <b>Modern Frontend:</b> Creation of reactive interfaces using TypeScript and modern frameworks.<br>
-    🤖 &nbsp; <b>AI Integration:</b> Implementation of chat and automation functionalities using LangChain.<br>
-    🗄️ &nbsp; <b>Data Management:</b> Modeling and optimization of relational databases (PostgreSQL/MySQL).
+    🤖 &nbsp; <b>GenAI & LLMs:</b> Orchestration with LangChain and local execution via Ollama (Llama/Mistral).<br>
+    🚀 &nbsp; <b>Backend Engineering:</b> High-performance Async APIs with Python 3.12+ and FastAPI.<br>
+    📊 &nbsp; <b>Data & Analytics:</b> ETL pipelines, Star Schema modeling, and strategic Dashboards (Power BI).<br>
+    🗄️ &nbsp; <b>Infrastructure:</b> Scalable solutions with PostgreSQL, Docker, and openSUSE Linux.
+  </p>
   </p>
 </div>
 <br>
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+  <img width="15" />
+  <img width="15" />
 </div>
 
 <br>
@@ -58,5 +59,8 @@
   </a>
   <a href="https://t.me/+5533998453545" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo" />
+  </a>
+  <a href="https://victorhugo.dev.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" />
   </a>
 </div>

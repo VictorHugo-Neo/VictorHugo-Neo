@@ -5,11 +5,12 @@
 <br>
 <div align="center">
   <p>
-    🤖 &nbsp; <b>GenAI & LLMs:</b> Orchestration with LangChain and local execution via Ollama (Llama/Mistral).<br>
-    🚀 &nbsp; <b>Backend Engineering:</b> High-performance Async APIs with Python 3.12+ and FastAPI.<br>
-    📊 &nbsp; <b>Data & Analytics:</b> ETL pipelines, Star Schema modeling, and strategic Dashboards (Power BI).<br>
-    🗄️ &nbsp; <b>Infrastructure:</b> Scalable solutions with PostgreSQL, Docker, and openSUSE Linux.
+    🤖 &nbsp; <b>IA & Automação:</b> Integração de modelos de linguagem (LangChain) e processamento rápido em nuvem via Groq.<br>
+    🚀 &nbsp; <b>Desenvolvimento de Sistemas:</b> Criação de APIs assíncronas robustas com Python 3.12+ (FastAPI) e interfaces modernas (Tailwind CSS v4).<br>
+    📊 &nbsp; <b>Dados & Indicadores:</b> Tratamento de informações (ETL) e construção de dashboards no Power BI para suporte à decisão.<br>
+    ⚙️ &nbsp; <b>Infraestrutura & Gestão:</b> Organização com bancos de dados (PostgreSQL), conteinerização (Docker) e ambiente Linux (openSUSE).
   </p>
+</div>
   </p>
 </div>
 <br>
